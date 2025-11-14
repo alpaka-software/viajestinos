@@ -17,9 +17,9 @@
 }
 
 .logo{
-    margin-top: 0%;
-    max-width: 15%;
-    max-height: 15%;
+    margin: 0.5rem;
+    max-width: 40vw;
+    max-height: 40vh;
     padding-bottom: 2rem;
 }
 
@@ -34,7 +34,7 @@ body {
                 url('../images/bg2.svg') center right no-repeat,
                 url('../images/bg3.svg') top center no-repeat,
                 url('../images/bg4.svg') bottom center no-repeat;
-    background-size: auto 50%, auto 50%, 25% auto, 25% auto;
+    background-size: auto 25vw, auto 25vw, 50vh auto, 50vh auto;
     background-position-y: 50%, 50%, 0%, 75%;
     height: 100vh;
     width: 100vw;
