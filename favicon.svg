@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320"><svg id="SvgjsSvg1017" data-name="Capa 1" viewBox="0 0 319.99999 319.99999" version="1.1" sodipodi:docname="icon.svg" width="320" height="320" inkscape:version="1.4.2 (f4327f4, 2025-05-13)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="SvgjsSodipodi:namedview1016" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showguides="true" inkscape:zoom="1.0894495" inkscape:cx="-4.5894738" inkscape:cy="253.7979" inkscape:window-width="1600" inkscape:window-height="829" inkscape:window-x="-8" inkscape:window-y="391" inkscape:window-maximized="1" inkscape:current-layer="Capa_1"></sodipodi:namedview>
+  <defs id="SvgjsDefs1015">
+    <style id="SvgjsStyle1014">
+      .cls-1 {
+        fill: #fac457;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #f59e07;
+      }
+    </style>
+  </defs>
+  <g id="SvgjsG1013" transform="translate(1.725,59.57)">
+    <polygon class="cls-1" points="158.27,119.92 158.27,96.88 130.59,69.7 30.84,69.7 158.27,199.48 158.27,174.95 68.93,86.6 125.12,86.6 " id="SvgjsPolygon1012"></polygon>
+    <polygon class="cls-3" points="158.27,119.92 158.27,96.88 185.95,69.7 285.71,69.7 158.27,199.48 158.27,174.95 247.61,86.6 191.42,86.6 " id="SvgjsPolygon1011"></polygon>
+    <polygon class="cls-3" points="178.5,45.98 203.03,45.98 158.28,1.38 158.27,1.38 158.28,25.87 " id="SvgjsPolygon1010"></polygon>
+    <polygon class="cls-1" points="113.52,45.98 158.27,1.38 158.27,25.87 138.05,45.98 " id="SvgjsPolygon1009"></polygon>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
